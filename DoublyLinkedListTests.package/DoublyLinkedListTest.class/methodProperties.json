@@ -2,4 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SkipLentz 9/15/2014 17:46" } }
+		"setUp" : "SkipLentz 9/15/2014 17:46",
+		"testAdd" : "Balletie 9/15/2014 18:05" } }
