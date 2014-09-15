@@ -1,0 +1,1 @@
+A DoublyLink serves as a node in the DoublyLinkedList, containing a reference to the previous and the next DoublyLink in the List.
