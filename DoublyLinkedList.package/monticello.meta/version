@@ -1,2 +1,3 @@
-(name 'DoublyLinkedList-SkipLentz.2' message 'Add a comment describing the DoublyLinkedList' id '418278d2-6c19-4aaf-9811-f7fbb63ea0b0' date '15 September 2014' time '5:37:53.414988 pm' author 'SkipLentz' ancestors ((name 'DoublyLinkedList-Balletie.1' message 'Initial version
-' id '217de9b5-a67f-552c-bf4d-f6a5318589c2' date '15 September 2014' time '4:43:44 pm' author 'Balletie' ancestors () stepChildren ())) stepChildren ())
+(name 'DoublyLinkedList-Balletie.3' message 'Implement size to stop Pharo from crashing. Add initialize and add stub.' id '05a1e20c-5594-46d8-9377-65ad1e7d47d8' date '15 September 2014' time '8:18:55.859069 pm' author 'Balletie' ancestors ((name 'DoublyLinkedList-Balletie.2' message 'Add a comment describing the DoublyLinkedList
+' id '1a0098cf-1f60-5d1e-8821-77f34e507108' date '15 September 2014' time '5:37:53 pm' author 'Balletie' ancestors ((name 'DoublyLinkedList-Balletie.1' message 'Initial version
+' id '217de9b5-a67f-552c-bf4d-f6a5318589c2' date '15 September 2014' time '4:43:44 pm' author 'Balletie' ancestors () stepChildren ())) stepChildren ())) stepChildren ())

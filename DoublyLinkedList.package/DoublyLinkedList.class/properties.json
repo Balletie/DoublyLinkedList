@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"size",
+		"headLink",
+		"tailLink" ],
 	"name" : "DoublyLinkedList",
 	"pools" : [
 		 ],
