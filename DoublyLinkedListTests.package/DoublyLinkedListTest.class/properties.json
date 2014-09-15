@@ -1,0 +1,14 @@
+{
+	"category" : "DoublyLinkedListTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list" ],
+	"name" : "DoublyLinkedListTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,1 +1,2 @@
-(name 'DoublyLinkedListTests-SkipLentz.1' message 'Add a test package' id '6f8fc5d9-1345-4223-ad89-402c9f4c5544' date '15 September 2014' time '5:32:57.759631 pm' author 'SkipLentz' ancestors () stepChildren ())
+(name 'DoublyLinkedListTests-SkipLentz.2' message 'Add TestCase subclass and setUp message for test initialization' id '981c7fa8-0db5-419f-a6b6-557f1c3967a3' date '15 September 2014' time '5:46:50.919624 pm' author 'SkipLentz' ancestors ((name 'DoublyLinkedListTests-Balletie.1' message 'Add a test package
+' id '8ab92a1a-bc7b-5c80-8d14-4a024e0881fe' date '15 September 2014' time '5:32:58 pm' author 'Balletie' ancestors () stepChildren ())) stepChildren ())
