@@ -1,0 +1,16 @@
+{
+	"category" : "DoublyLinkedList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"prevLink",
+		"value",
+		"nextLink" ],
+	"name" : "DoublyLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
