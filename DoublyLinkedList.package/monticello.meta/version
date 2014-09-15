@@ -1,1 +1,2 @@
-(name 'DoublyLinkedList-SkipLentz.1' message 'Initial version' id '5ad3d904-3e52-4405-a466-92a5d990f6f4' date '15 September 2014' time '4:43:43.74158 pm' author 'SkipLentz' ancestors () stepChildren ())
+(name 'DoublyLinkedList-SkipLentz.2' message 'Add a comment describing the DoublyLinkedList' id '418278d2-6c19-4aaf-9811-f7fbb63ea0b0' date '15 September 2014' time '5:37:53.414988 pm' author 'SkipLentz' ancestors ((name 'DoublyLinkedList-Balletie.1' message 'Initial version
+' id '217de9b5-a67f-552c-bf4d-f6a5318589c2' date '15 September 2014' time '4:43:44 pm' author 'Balletie' ancestors () stepChildren ())) stepChildren ())
