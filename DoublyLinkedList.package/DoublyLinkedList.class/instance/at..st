@@ -1,6 +1,11 @@
 as yet unclassified
 at: index
 
-	| currentIndex |
-	currentIndex := 0.
-	
+	| i link |
+	i := 0.
+	link := headLink.
+	[i == index] whileFalse: [ 
+		i := i + 1.
+		link := link next.
+	].
+	^ link value.
