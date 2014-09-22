@@ -1,7 +1,7 @@
 adding
 add: aDoublyLinkOrObject
 
-	|aDoublyLink|
+	| aDoublyLink |
 	aDoublyLink := aDoublyLinkOrObject asDoublyLink.
 	self isEmpty
 		ifTrue: [
