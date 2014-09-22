@@ -1,16 +1,13 @@
 adding
 add: aDoublyLinkOrObject
 
-	| aDoublyLink |
+	| aDoublyLink lastLink|
 	aDoublyLink := aDoublyLinkOrObject asDoublyLink.
-	self isEmpty
-		ifTrue: [
-			headLink := aDoublyLink
-		]
-		ifFalse: [
-			tailLink next: aDoublyLink.
-			aDoublyLink prev: tailLink.
-		].
-	tailLink := aDoublyLink.
+	lastLink := self tailLink.
+
+	aDoublyLink next: tailSentinel.
+	aDoublyLink prev: lastLink.
+	tailSentinel prev: aDoublyLink.
+	lastLink next: aDoublyLink.
 
 	size := size + 1.

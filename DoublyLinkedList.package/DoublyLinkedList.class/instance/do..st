@@ -1,8 +1,10 @@
 enumerating
 do: aBlock 
 
-	| currentLink |
-	currentLink := headLink.
-	[ currentLink == nil ] whileFalse:
-		[ aBlock value: currentLink value.
+	| currentLink index |
+	currentLink := self headLink.
+	index := 0.
+	[ index == size ] whileFalse:
+		[ index := index + 1.
+		  aBlock value: currentLink value.
 		  currentLink := currentLink next ].

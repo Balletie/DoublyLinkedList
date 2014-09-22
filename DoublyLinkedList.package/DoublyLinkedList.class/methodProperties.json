@@ -2,11 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"add:" : "Balletie 9/22/2014 18:29",
+		"add:" : "Balletie 9/23/2014 00:07",
 		"at:" : "Balletie 9/22/2014 21:37",
-		"at:ifAbsent:" : "Balletie 9/22/2014 21:36",
-		"do:" : "Balletie 9/22/2014 18:33",
-		"headLink" : "Balletie 9/16/2014 09:12",
-		"initialize" : "Balletie 9/16/2014 18:46",
+		"at:ifAbsent:" : "Balletie 9/23/2014 00:02",
+		"do:" : "Balletie 9/23/2014 00:05",
+		"headLink" : "Balletie 9/23/2014 00:07",
+		"initialize" : "Balletie 9/23/2014 00:08",
+		"remove:ifAbsent:" : "Balletie 9/23/2014 00:08",
 		"size" : "Balletie 9/15/2014 20:18:56",
-		"tailLink" : "Balletie 9/16/2014 09:12" } }
+		"tailLink" : "Balletie 9/23/2014 00:08" } }

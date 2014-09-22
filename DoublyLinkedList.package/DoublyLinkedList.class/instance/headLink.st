@@ -1,4 +1,4 @@
 testing
 headLink
 
-	^headLink.
+	^headSentinel next.

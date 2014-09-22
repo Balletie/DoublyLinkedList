@@ -1,4 +1,4 @@
 testing
 tailLink
 
-	^tailLink.
+	^tailSentinel prev.

@@ -3,4 +3,7 @@ initialize
 
 	super initialize.
 	size := 0.
-	tailLink := DoublyLink new.
+	headSentinel := DoublyLink new.
+	tailSentinel := DoublyLink new.
+	headSentinel next: tailSentinel.
+	tailSentinel prev: headSentinel.

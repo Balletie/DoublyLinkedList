@@ -7,8 +7,8 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"size",
-		"headLink",
-		"tailLink" ],
+		"headSentinel",
+		"tailSentinel" ],
 	"name" : "DoublyLinkedList",
 	"pools" : [
 		 ],
