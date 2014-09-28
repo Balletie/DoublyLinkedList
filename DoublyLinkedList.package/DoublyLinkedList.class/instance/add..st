@@ -1,6 +1,7 @@
 adding
 add: aDoublyLinkOrObject
 
+	"Add an element to the list as a link."
 	| aDoublyLink lastLink|
 	aDoublyLink := aDoublyLinkOrObject asDoublyLink.
 	lastLink := self tailLink.
@@ -11,3 +12,4 @@ add: aDoublyLinkOrObject
 	lastLink next: aDoublyLink.
 
 	size := size + 1.
+	^aDoublyLinkOrObject
