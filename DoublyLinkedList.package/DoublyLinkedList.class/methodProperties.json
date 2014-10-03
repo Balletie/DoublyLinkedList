@@ -4,12 +4,13 @@
 	"instance" : {
 		"add:" : "Balletie 9/28/2014 17:12",
 		"at:" : "Balletie 9/22/2014 21:37",
-		"at:ifAbsent:" : "Balletie 9/23/2014 00:02",
+		"at:ifAbsent:" : "Balletie 10/3/2014 18:13",
 		"at:put:" : "Balletie 10/3/2014 11:18",
-		"at:put:ifAbsent:" : "Balletie 10/3/2014 18:03",
+		"at:put:ifAbsent:" : "Balletie 10/3/2014 18:13",
 		"do:" : "Balletie 9/23/2014 00:05",
 		"headLink" : "Balletie 9/23/2014 00:07",
 		"initialize" : "Balletie 9/23/2014 00:08",
+		"linkAt:ifAbsent:" : "Balletie 10/3/2014 18:11",
 		"remove:ifAbsent:" : "Balletie 9/23/2014 00:08",
 		"size" : "Balletie 9/15/2014 20:18:56",
 		"tailLink" : "Balletie 9/23/2014 00:08" } }
